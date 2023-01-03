@@ -1,0 +1,14 @@
+C:\Users\Cansu\source\repos\Monte-Carlo\Monte-Carlo\bin\Debug\netcoreapp3.1\Monte-Carlo.exe
+C:\Users\Cansu\source\repos\Monte-Carlo\Monte-Carlo\bin\Debug\netcoreapp3.1\Monte-Carlo.deps.json
+C:\Users\Cansu\source\repos\Monte-Carlo\Monte-Carlo\bin\Debug\netcoreapp3.1\Monte-Carlo.runtimeconfig.json
+C:\Users\Cansu\source\repos\Monte-Carlo\Monte-Carlo\bin\Debug\netcoreapp3.1\Monte-Carlo.runtimeconfig.dev.json
+C:\Users\Cansu\source\repos\Monte-Carlo\Monte-Carlo\bin\Debug\netcoreapp3.1\Monte-Carlo.dll
+C:\Users\Cansu\source\repos\Monte-Carlo\Monte-Carlo\bin\Debug\netcoreapp3.1\Monte-Carlo.pdb
+C:\Users\Cansu\source\repos\Monte-Carlo\Monte-Carlo\obj\Debug\netcoreapp3.1\Monte-Carlo.csproj.AssemblyReference.cache
+C:\Users\Cansu\source\repos\Monte-Carlo\Monte-Carlo\obj\Debug\netcoreapp3.1\Monte-Carlo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cansu\source\repos\Monte-Carlo\Monte-Carlo\obj\Debug\netcoreapp3.1\Monte-Carlo.AssemblyInfoInputs.cache
+C:\Users\Cansu\source\repos\Monte-Carlo\Monte-Carlo\obj\Debug\netcoreapp3.1\Monte-Carlo.AssemblyInfo.cs
+C:\Users\Cansu\source\repos\Monte-Carlo\Monte-Carlo\obj\Debug\netcoreapp3.1\Monte-Carlo.csproj.CoreCompileInputs.cache
+C:\Users\Cansu\source\repos\Monte-Carlo\Monte-Carlo\obj\Debug\netcoreapp3.1\Monte-Carlo.dll
+C:\Users\Cansu\source\repos\Monte-Carlo\Monte-Carlo\obj\Debug\netcoreapp3.1\Monte-Carlo.pdb
+C:\Users\Cansu\source\repos\Monte-Carlo\Monte-Carlo\obj\Debug\netcoreapp3.1\Monte-Carlo.genruntimeconfig.cache
