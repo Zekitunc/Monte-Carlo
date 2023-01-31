@@ -62,16 +62,16 @@ namespace Monte_Carlo
                 else if (min + 9* percent10 <= randomPlanCost && randomPlanCost <= min + percent10 * 10)
                     percent90100 += 1;
             }
-            Percenteges[0] = percent010/ 100;
-            Percenteges[1] = percent1020 / 100;
-            Percenteges[2] = percent2030 / 100;
-            Percenteges[3] = percent3040 / 100;
-            Percenteges[4] = percent4050 / 100;
-            Percenteges[5] = percent5060 / 100;
-            Percenteges[6] = percent6070 / 100;
-            Percenteges[7] = percent7080 / 100;
-            Percenteges[8] = percent8090 / 100;
-            Percenteges[9] = percent90100 / 100;
+            Percenteges[0] = (float)percent010 / 100;
+            Percenteges[1] = (float)percent1020 / 100;
+            Percenteges[2] = (float)percent2030 / 100;
+            Percenteges[3] = (float)percent3040 / 100;
+            Percenteges[4] = (float)percent4050 / 100;
+            Percenteges[5] = (float)percent5060 / 100;
+            Percenteges[6] = (float)percent6070 / 100;
+            Percenteges[7] = (float)percent7080 / 100;
+            Percenteges[8] = (float)percent8090 / 100;
+            Percenteges[9] = (float)percent90100 / 100;
 
             return Percenteges;
         }
